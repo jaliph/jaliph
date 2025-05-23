@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jaliph!
+# 👋 Hi there, I'm Akash!
 
 I'm a **Senior Software Developer** at [Aerospike](https://www.aerospike.com/), working on high-performance, scalable, and resilient systems at the heart of the world's leading key-value store.
 
