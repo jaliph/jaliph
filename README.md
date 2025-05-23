@@ -7,7 +7,7 @@ I'm a **Senior Software Developer** at [Aerospike](https://www.aerospike.com/), 
 ## 🧑‍💻 Experience
 
 With over **10 years** in software engineering, I've had the privilege to work with:
-- **Aerospike**
+- **Aerospike** ([a-spiker](https://github.com/a-spiker))
 - **IBM Research Labs**
 - **Comviva**
 
